@@ -1,0 +1,23 @@
+Name,Family,size,NameID,FamilyID,Path,Definition
+Specify needs,"Plan, design & enable",4,0,0,"Path2, Path3, Path5",Specify the needs and develop the design for a particular information or data acquisition or creation process.
+Acquire,"Create, Capture & Collect",6,1,1,"Path1, Path2, Path3, Path4, Path5","Create, generate, extract, capture, enter, collect, receive, transfer, or ingest information or data physically or electronically. 
+"
+Store,"Organize, store & maintain",8,2,2,"Path1, Path2, Path3, Path4, Path5",Place information or ingest data into a location or repository. 
+Clean,"Organize, store & maintain",3,3,2,Path2,Prepare information or data for analysis. 
+Contextualise,"Organize, store & maintain",12,4,2,"Path1, Path2, Path3, Path4, Path5","Capture metadata about the circumstances, conditions, or environment in which the information or data was acquired or is currently being used. "
+Maintain,"Organize, store & maintain",7,5,2,"Path1, Path2, Path3, Path4","Manage the availability and integrity of information and data so that they can be accessed and understood over time.
+
+"
+Engineer,"Provision, integrate & Curate",3,6,3,"Path2, Path3","Develop and construct data products and services, and integrate them into systems and business processes. "
+Analyse,"Provision, integrate & Curate",3,7,3,"Path1, Path4","Explore and interpret information or data, and prepare final outputs. "
+Curate,"Provision, integrate & Curate",4,8,3,"Path2, Path3, Path5","Continuously enrich or update information or data to keep it fit for purpose (business need).
+"
+Evaluate,"Provision, integrate & Curate",2,9,3,Path2,"Assess the success of the information or data output, based on the expectations articulated in the Specify Needs node. 
+"
+Discover,"Access, use & share",5,10,4,"Path1, Path3, Path4","Seek, and identify relevant information or data within a repository."
+Access,"Access, use & share",7,11,4,"Path1, Path3, Path4, Path5","Enable or restrict permissions for individuals or systems to view, update, delete, or to otherwise use or manipulate specific information or data at various stages of their life cycles. "
+Use,"Access, use & share",5,12,4,"Path1, Path3, Path5","Employ, reuse, or repurpose existing information or data with the appropriate methods to achieve a goal, such as to support an organization's objectives, operations, or decision making. "
+Share,"Access, use & share",6,13,4,"Path2, Path3, Path4, Path5",Make information or data available for reuse outside the originator's control. 
+Protect,"Access, use & share",2,14,4,"Path3, Path5","Protect the confidentiality, availability, and integrity of information or data."
+Preserve,Archive transfer & destroy,7,15,5,"Path1, Path2, Path3, Path4, Path5","Ensure the authenticity, reliability, usability, and integrity of information or data in the long term, using appropriate processes and practices, and according to business needs or legal obligations. "
+Dispose,Archive transfer & destroy,6,16,5,"Path1, Path2, Path3, Path4, Path5",Provide for the end-of-use and end-of-life of information and data in an organization.
